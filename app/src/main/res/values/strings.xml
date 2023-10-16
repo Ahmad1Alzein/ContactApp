@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="add">add contact</string>
+    <string name="search">search</string>
+    <string name="search_edit">search...</string>
+    <string name="account_inf">Contact Details</string>
+    <string name="contactName">Contact name:</string>
+    <string name="nameVal">Ahmad Alzein</string>
+    <string name="phoneNb">Phone number:</string>
+    <string name="numberVal">+96178858215</string>
+    <string name="email">Email:</string>
+    <string name="emailVal">ahmad.alzein@gmail.com</string>
+
+    <string name="nameValInput1">First Name</string>
+    <string name="nameValInput2">Last Name</string>
+    <string name="numberValInput">8 digit number</string>
+    <string name="emailValInput">email@example.com</string>
+
+    <string name="new_contact">New Contact</string>
+
+    <string name="data">contacts</string>
+    <string name="noEmail">No email founded</string>
+
+    <string name="accessAdd">New Contact</string>
+    <string name="accessEdit">Edit Contact</string>
+
+</resources>
